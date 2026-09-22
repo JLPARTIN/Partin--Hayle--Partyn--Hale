@@ -6,7 +6,7 @@ Claims that have been tested against the recovered research corpus and found uns
 
 ## 1. Margaret Partin's maiden name was Hayle
 
-**Origin of claim:** A long-standing working hypothesis in this project (see prior versions of `01_ENGLAND_THAMES/LONDON_NETWORK.md`), proposed to explain Thomas Hayle's presence in Robert and Margaret Partin's Virginia household.
+**Origin of claim:** A long-standing working hypothesis in this project (see prior versions of `01_ENGLAND_THAMES/ENGLAND_PARTIN_HAYLE_DOSSIER.md`), proposed to explain Thomas Hayle's presence in Robert and Margaret Partin's Virginia household.
 
 **Evidence for:** None resting on a primary record recovered by this project.
 
@@ -36,7 +36,7 @@ Claims that have been tested against the recovered research corpus and found uns
 
 **Origin of claim:** The project owner's own Jamestowne Society application-support draft ("PARTIN DIRECT LINE"), styled as advocacy for a lineage submission rather than a neutral audit.
 
-**Evidence for:** The payment entry itself is real (though its exact amount is separately disputed — see Contradiction 5 in `08_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md`) and does place a "John Partin" as a recipient from a Robert Partin estate.
+**Evidence for:** The payment entry itself is real (though its exact amount is separately disputed — see Contradiction 5 in `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md`) and does place a "John Partin" as a recipient from a Robert Partin estate.
 
 **Evidence against:** At least four independently recovered documents — including both a Gemini and a ChatGPT run of a dedicated parentage investigation, and a long-form self-auditing transcript — state plainly that the payment record **does not use the word "son"** and is inferential only. The self-auditing transcript separately calls this exact bridge "the biggest problem" in the entire research program and states there is "no primary state-line bridge record."
 
@@ -62,7 +62,7 @@ Claims that have been tested against the recovered research corpus and found uns
 
 ## 5. David Partin Sr.'s wife was named Keziah, of the Revelle or Hawkins family
 
-**Origin of claim:** The most recent of five successive AI-assisted drafts investigating this question (see `04_HALIFAX_NORTH_CAROLINA/DAVID_PARTIN_SR_DOSSIER.md` for the full evolution).
+**Origin of claim:** The most recent of five successive AI-assisted drafts investigating this question (see `04_HALIFAX_NORTH_CAROLINA/NORTH_CAROLINA_DOSSIER.md` for the full evolution).
 
 **Evidence for:** An 1823 deed in which David conveys land inherited "from the death of my mother," on a tract called "Robert Partin's tract" — but this deed does not itself name the mother, let alone a wife, and its disputed key word has been read three incompatible ways across the drafts (unaddressed; supporting "Keziah"; explicitly read as "Kursin," not Keziah).
 
@@ -96,6 +96,6 @@ Claims that have been tested against the recovered research corpus and found uns
 
 **Evidence against:** A separately recovered, more specifically cited document places the family in London, citing London Metropolitan Archives references for a 1586 marriage (St. Botolph Aldgate) and a 1589 baptism (St. Margaret Pattens). This project's `RESEARCH_STATUS.md` has separately and independently warned against treating "St. Mary Somerset" (a London parish name attached to the Hayle family) as evidence of a Somerset-county or Bristol origin — the Bristol/Gloucestershire theory appears to be exactly that conflation, mistaking the London parish name "St. Mary Somerset" for a reference to Somerset county or nearby Bristol.
 
-**Current verdict: REJECTED outright, per the project owner's own confirmation that this was an unsourced working theory, not a documented lead.** It should not be repeated or re-tested as a candidate origin absent a genuine new primary citation. **The St. Mary Somerset, London research thread (Hayle family parish, and the Partyn/Partin candidate research tied to the same London network) is explicitly retained as the project's legitimate, source-backed English-origins thread** — see `01_ENGLAND_THAMES/LONDON_NETWORK.md`. The competing London citations for Robert Partin Sr. specifically (St. Botolph Aldgate 1586 marriage; St. Margaret Pattens 1589 baptism) remain themselves not yet independently image-verified by this project and should be treated as CANDIDATE, not proven — but they are the only origin thread this project should continue developing.
+**Current verdict: REJECTED outright, per the project owner's own confirmation that this was an unsourced working theory, not a documented lead.** It should not be repeated or re-tested as a candidate origin absent a genuine new primary citation. **The St. Mary Somerset, London research thread (Hayle family parish, and the Partyn/Partin candidate research tied to the same London network) is explicitly retained as the project's legitimate, source-backed English-origins thread** — see `01_ENGLAND_THAMES/ENGLAND_PARTIN_HAYLE_DOSSIER.md`. The competing London citations for Robert Partin Sr. specifically (St. Botolph Aldgate 1586 marriage; St. Margaret Pattens 1589 baptism) remain themselves not yet independently image-verified by this project and should be treated as CANDIDATE, not proven — but they are the only origin thread this project should continue developing.
 
 **What could reopen a Bristol/Gloucestershire theory:** An actual archival citation (parish register, will, or other original record) naming a Bristol/Gloucestershire origin — none currently exists, and none should be assumed while pursuing the London thread.
