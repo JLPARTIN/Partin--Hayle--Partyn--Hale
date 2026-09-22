@@ -51,11 +51,11 @@ Symon Hayle, tailor of St. Mary Somerset, London, wrote a will on 10 Feb 1625 (1
 
 This will reads as a genuine, detailed primary-source transcription (period-appropriate names and bequest structure), but has not yet been independently checked by this project against the original Guildhall/London Metropolitan Archives probate record — treat its contents as STRONG, not PROVEN.
 
-### Margaret Hayle = Margaret Partin — REJECTED (downgraded September 2026)
+### Margaret Hayle = Margaret Partin — OPEN / UNPROVEN (corrected after forensic audit)
 
-For years this project's leading working hypothesis was that Margaret Partin (Robert's wife in Virginia) was born Margaret Hayle, sister of Symon, making Thomas her nephew. **Symon Hayle's own will does not name a daughter Margaret**, which is meaningful negative evidence against this specific identification — a will naming surviving and contingent children, and omitting a Margaret, weighs against Margaret Partin having been Symon's daughter. It does not rule out Margaret belonging to a different, unreconstructed branch of the Hayle family, having died or married out before 1625, or a connection through some other relationship entirely.
+For years this project's leading working hypothesis was that Margaret Partin (Robert's wife in Virginia) was born a Hayle and may have been a sister or other close relative of Symon, making Thomas potentially her nephew. **The recovered Symon Hayle will does not name a daughter Margaret, but that fact does not test a sibling hypothesis.** The project's own candidate chronology places Symon about 1576 and a Margaret Hayle candidate about 1588; those dates put them naturally in the same generation. The previous REJECTED classification therefore committed a relationship-category error: evidence against a daughter of Symon was used to reject a possible sister/relative of Symon. Margaret's Hayle maiden name remains unproved and must not be stated as fact, but it is restored to an OPEN / WORKING HYPOTHESIS pending reconstruction of Symon's parents and siblings.
 
-**Consequence:** Thomas Hayle's presence in Robert and Margaret Partin's Virginia household in 1624/25 is currently **unexplained by any kinship theory supported by a primary record.** The aunt/nephew hypothesis (Thomas as Margaret's nephew via a Hayle-born Margaret) has no documented mechanism left to stand on. Two live possibilities remain open, neither proven: (a) Margaret belongs to an as-yet-unreconstructed branch of the Hayle family, or (b) Thomas's household placement reflects a servant/master relationship with no family tie to Margaret at all — Thomas is explicitly classified as a **servant** in the 1624/25 muster, and that fact must be retained regardless of any kinship theory later proven or disproven.
+**Consequence:** Thomas Hayle's presence in the Partin household remains unexplained by proven kinship. A Hayle-family connection through Margaret is still testable, but the required record is one that reconstructs Symon's sibling/parental family or independently identifies Margaret before Virginia. The servant/master explanation also remains fully viable. Thomas's classification as a **servant** in the muster must be retained regardless of any later-proven kinship.
 
 ### Robert Partyn (English candidate) = Robert Partin (Virginia immigrant)
 
@@ -79,7 +79,7 @@ See `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` entries 
 
 ## Rejected Claims
 
-- Margaret Partin's maiden name as Hayle (see `00_PROJECT_CONTROL/REJECTED_AND_QUARANTINED_CLAIMS.md` #1).
+- Margaret Partin's maiden name as Hayle is **not proven**. The prior blanket rejection is superseded by the relationship-category correction above; any separate unsourced pedigree assigning specific parents remains quarantined.
 - Robert Partin Sr.'s English origin as Bristol/Gloucestershire/Somerset (see same file, #7) — owner-confirmed unsourced.
 
 ## Evidence Assessment
@@ -88,7 +88,7 @@ See `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` entries 
 - **STRONG:** Symon Hayle's 1625/26 will as a document (pending LMA verification); the Thomas Hayle (b.1605) candidate as chronologically compatible with the Virginia Thomas.
 - **WORKING HYPOTHESIS:** Social-network/migration-sponsorship theory; the Robert Partyn (1589) candidate as the Virginia immigrant.
 - **CANDIDATE:** John Parton (1568), John Partin/Alice Gaskyn marriage (1586), Margaret Hayle (1588) baptism as an unplaced Hayle-family member.
-- **REJECTED:** Margaret Partin = Margaret Hayle (daughter of Symon); Bristol/Somerset origin for Robert Partin Sr.
+- **OPEN / UNPROVEN:** Margaret Partin = a Hayle relative of Symon; the specific claim that she was Symon's daughter is unsupported by the recovered will. **REJECTED:** Bristol/Somerset origin for Robert Partin Sr.
 
 ## Falsification Tests
 
