@@ -24,6 +24,8 @@ Candidate chronology:
 ## St Mary Somerset correction
 “St Mary Somerset” is a London parish name. A record attached to that parish cannot be converted merely from the word *Somerset* into evidence that the person came from Somerset county or Bristol. Any Bristol/Somerset origin theory requires independent evidence.
 
+**Owner-confirmed (Oct 2026):** a Bristol/Gloucestershire/Somerset origin theory for Robert Partin Sr., recovered from the September 2026 Drive corpus, has been directly disclaimed by the project owner as an unsourced working theory produced while sorting through conflicting online family trees — not a documented lead, and not to be revisited absent an actual new citation. See `00_PROJECT_CONTROL/REJECTED_AND_QUARANTINED_CLAIMS.md` #7. The St. Mary Somerset, London research on this page — the Hayle family and the associated Partyn/Partin candidates — is the project's retained, source-backed English-origins thread and should continue to be the focus of English-side research, even though its individual candidate identifications remain unproven and require independent archival verification.
+
 ## Network hypothesis
 If Margaret Hayle became Margaret Partin, Thomas would be her nephew under the current sibling reconstruction. Thomas later appearing in Robert Partin's Virginia household would then have a direct kinship explanation.
 

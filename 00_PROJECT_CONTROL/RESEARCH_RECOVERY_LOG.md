@@ -2,6 +2,10 @@
 
 Documents the process of the September 2026 research-recovery pass, so the project does not later assume "everything was searched" when it was not.
 
+## Why the recovered corpus is contradiction-heavy (owner's account, Oct 2026)
+
+The project owner has directly explained the corpus's character, and it should govern how every document in it is read: the underlying research was produced by working through a large number of conflicting, largely uncited online family trees, session by session, fighting through that noise toward genuinely source-backed information — without a consistent organizing system across sessions. That combination (repeated re-litigation of the same open questions, across many separate unorganized AI-assisted chat sessions, each starting close to cold) is the direct cause of this project's dense layer of contradictions, evidence-inflation, and same-question drafts that disagree with their own prior drafts (see, e.g., the five-draft David Partin Sr. wife investigation, or the Bristol/Gloucestershire origin theory rejected in `REJECTED_AND_QUARANTINED_CLAIMS.md` #7 — confirmed by the owner as an unsourced theory produced in exactly this process, not a real lead). This recovery and consolidation effort exists specifically to convert that raw working-through into a single organized, evidence-graded archive, which is why this project treats every recovered document as a lead to verify rather than a finding to trust, regardless of how confidently any individual draft states its conclusion.
+
 ## What was searched
 
 The project owner's connected Google Drive account, via full-text and title search for: Partin, Partyn, Hayle, Hale, and combinations with Halifax, Kershaw, Wilkinson, Blackwater, Blessing, Jamestown, Shirley Hundred, DNA, Rawlings, and Hux. Searches were run iteratively (title-only, full-text, and targeted phrase searches) until additional pages returned overwhelmingly duplicate results.

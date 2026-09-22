@@ -88,14 +88,14 @@ Claims that have been tested against the recovered research corpus and found uns
 
 ---
 
-## 7. Robert Partin Sr.'s English origin was Bristol/Gloucestershire
+## 7. Robert Partin Sr.'s English origin was Bristol/Somerset/Gloucestershire
 
-**Origin of claim:** One recovered document, offered with no archival citation, only the word "likely."
+**Origin of claim:** One recovered document, offered with no archival citation, only the word "likely." **Confirmed directly by the project owner (Oct 2026 session) as one of several unsourced working theories produced while manually untangling a large number of conflicting, uncited online family trees** — not a research lead with any documentary basis. The owner's own account: this project's underlying research corpus is contradiction-heavy precisely because it records that process — working through bad online-tree claims toward source-backed information, done across many separate, unorganized AI-assisted sessions rather than in one running document. See `RESEARCH_RECOVERY_LOG.md`.
 
-**Evidence for:** None found in the recovered corpus beyond the assertion itself.
+**Evidence for:** None. None found in the recovered corpus beyond the assertion itself, and the owner has confirmed no such evidence exists in their own working notes either.
 
-**Evidence against:** A separately recovered, more specifically cited document places the same family in London, citing London Metropolitan Archives references for a 1586 marriage (St. Botolph Aldgate) and a 1589 baptism (St. Margaret Pattens). This project's `RESEARCH_STATUS.md` has separately and independently warned against treating "St. Mary Somerset" (a London parish name attached to the Hayle family) as evidence of a Somerset-county or Bristol origin.
+**Evidence against:** A separately recovered, more specifically cited document places the family in London, citing London Metropolitan Archives references for a 1586 marriage (St. Botolph Aldgate) and a 1589 baptism (St. Margaret Pattens). This project's `RESEARCH_STATUS.md` has separately and independently warned against treating "St. Mary Somerset" (a London parish name attached to the Hayle family) as evidence of a Somerset-county or Bristol origin — the Bristol/Gloucestershire theory appears to be exactly that conflation, mistaking the London parish name "St. Mary Somerset" for a reference to Somerset county or nearby Bristol.
 
-**Current verdict: REJECTED as a specific claim; UNRESOLVED as to Robert Partin Sr.'s exact English origin overall**, since the competing London citation is itself not yet independently verified by this project. Both the London and Bristol claims should currently be treated as unproven; the Bristol claim specifically should not be repeated without a citation, which no recovered document supplies.
+**Current verdict: REJECTED outright, per the project owner's own confirmation that this was an unsourced working theory, not a documented lead.** It should not be repeated or re-tested as a candidate origin absent a genuine new primary citation. **The St. Mary Somerset, London research thread (Hayle family parish, and the Partyn/Partin candidate research tied to the same London network) is explicitly retained as the project's legitimate, source-backed English-origins thread** — see `01_ENGLAND_THAMES/LONDON_NETWORK.md`. The competing London citations for Robert Partin Sr. specifically (St. Botolph Aldgate 1586 marriage; St. Margaret Pattens 1589 baptism) remain themselves not yet independently image-verified by this project and should be treated as CANDIDATE, not proven — but they are the only origin thread this project should continue developing.
 
-**What could reopen it:** An actual archival citation (parish register, will, or other original record) for a Bristol/Gloucestershire origin.
+**What could reopen a Bristol/Gloucestershire theory:** An actual archival citation (parish register, will, or other original record) naming a Bristol/Gloucestershire origin — none currently exists, and none should be assumed while pursuing the London thread.

@@ -159,12 +159,12 @@ Reported at three different confidence levels by three separate documents:
 
 **Status:** Unresolved; also entangled with Contradiction 22 below.
 
-## 22. Robert Partin Sr.'s (and the London Partyn family's) place of origin
+## 22. Robert Partin Sr.'s (and the London Partyn family's) place of origin — RESOLVED (owner-confirmed)
 
-- **Version A:** London, specifically citing London Metropolitan Archives references placing a John Partin/Alice Gaskyn marriage at St. Botolph Aldgate (1586) and a Robert Partyn baptism at St. Margaret Pattens (1589).
-- **Version B:** Bristol/Gloucestershire, with a marriage circa 1585–87 and a baptism dated 14 April 1588 — offered with no archival citation at all, only "likely."
+- **Version A:** London, specifically citing London Metropolitan Archives references placing a John Partin/Alice Gaskyn marriage at St. Botolph Aldgate (1586) and a Robert Partyn baptism at St. Margaret Pattens (1589); part of the same London research network as the St. Mary Somerset Hayle family material.
+- **Version B:** Bristol/Gloucestershire/Somerset, with a marriage circa 1585–87 and a baptism dated 14 April 1588 — offered with no archival citation at all, only "likely."
 
-**Status:** Unresolved and unreconciled anywhere in the recovered corpus. This is a foundational open question for the entire English-origins strand of the project. See `01_ENGLAND_THAMES/`.
+**Status: RESOLVED.** The project owner has directly confirmed (Oct 2026) that Version B (Bristol/Gloucestershire/Somerset) was one of several unsourced working theories produced while manually working through conflicting, uncited online family trees, and is **not** backed by any record in their own notes — it should be disregarded, not treated as a live competing theory. This most likely originated from conflating the London parish name "St. Mary Somerset" (the Hayle family's parish) with the English county of Somerset or nearby Bristol — exactly the error this project's own `RESEARCH_STATUS.md` had already warned against in the abstract. **Version A (London, St. Mary Somerset-adjacent research network) is retained as the project's legitimate source-backed English-origins thread**, though its own specific citations (St. Botolph Aldgate, St. Margaret Pattens) remain CANDIDATE pending independent image verification — retained and pursued, not proven. See `01_ENGLAND_THAMES/LONDON_NETWORK.md` and `00_PROJECT_CONTROL/REJECTED_AND_QUARANTINED_CLAIMS.md` #7.
 
 ## 23. John Partin (Halifax patriarch, d.1795)'s birth year
 
