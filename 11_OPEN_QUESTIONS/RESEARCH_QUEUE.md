@@ -44,11 +44,11 @@
 
 ## Added from the September 2026 Google Drive recovery pass
 
-- **Highest priority — Halifax Co. NC Will Book 3, John Partin's 1795 will:** three different page citations (248/251/256) and three materially different heir lists have been recovered; none has been image-verified. Resolving this is the single highest-value archival pull in the project. See `11_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` #10–11.
+- **Highest priority — Halifax Co. NC Will Book 3, John Partin's 1795 will:** three different page citations (248/251/256) and three materially different heir lists have been recovered; none has been image-verified. Resolving this is the single highest-value archival pull in the project. See `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` #10–11.
 - Locate the deed book/page for the 6 March 1811 Kershaw District, SC sale (Barnabas & "Peggy" Partin to Thomas English) — the strongest lead for proving Margaret Hux's parentage, currently uncited.
 - Complete the letterform/paleographic comparison on the disputed word in the 1823 David Partin deed's maternal-inheritance clause (Kursin/Kirstin vs. Keziah vs. something else) — every draft proposes this step; none has completed it.
 - Obtain and open the "Partin Family Bible" referenced throughout the David Partin Sr. research as the presumptive answer to his wife's identity — its existence has never been confirmed by this project.
 - Independently verify the recovered 1627 General Court transcription (Thomas Hayle/Avis Partin) and the 1625/26 Symon Hayle will against original archival holdings or an authoritative printed edition.
-- Resolve the Robert Partin Sr. English-origin conflict (London, St. Margaret Pattens/St. Botolph Aldgate citations vs. an uncited Bristol/Gloucestershire claim) — see `11_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` #22.
+- Resolve the Robert Partin Sr. English-origin conflict (London, St. Margaret Pattens/St. Botolph Aldgate citations vs. an uncited Bristol/Gloucestershire claim) — see `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` #22.
 - Complete extraction of the final ~87 pages (of ~588) of the Jim Partin book, which timed out during this recovery pass.
 - Confirm what the 178 MB "BARNABAS PARTIN (3).pdf" file actually contains and its relationship to the canonical Jim Partin book scan.

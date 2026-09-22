@@ -55,7 +55,7 @@ The Jim Partin book cites, for the South Carolina portion of Barnabas's and Bras
 
 ## FAN Network
 
-**William Hux and Benjamin Hux** — the central FAN thread of this dossier, recurring as land neighbors and probable in-laws. **Samuel Payne, Robert "Robin" White, and Thomas English** — recurring Kershaw grantors/grantees in Barnabas's immediate transaction circle. **"Samuel Paym"** — possibly, but not confirmed, the same person as Samuel Payne; flagged as an open research priority. See `10_FAN_NETWORKS/FAN_NETWORKS_DOSSIER.md`.
+**William Hux and Benjamin Hux** — the central FAN thread of this dossier, recurring as land neighbors and probable in-laws. **Samuel Payne, Robert "Robin" White, and Thomas English** — recurring Kershaw grantors/grantees in Barnabas's immediate transaction circle. **"Samuel Paym"** — possibly, but not confirmed, the same person as Samuel Payne; flagged as an open research priority. See `09_FAN_NETWORKS/FAN_NETWORKS_DOSSIER.md`.
 
 ## Contradictions
 
@@ -82,4 +82,4 @@ None specific to this South Carolina generation have been formally tested and re
 
 ## Sources
 
-Jim (Jimmy Dail) Partin, *Barnabas Partin: Ancestors and Descendants, From Virginia to Mississippi and Beyond* (see `00_PROJECT_CONTROL/RECOVERED_RESEARCH_INVENTORY.md` Category G); AI-assisted research recovered from the project's Google Drive, September 2026 (Categories A, D, F); FamilyTreeDNA Partin Surname Project public results (see `09_DNA/YDNA_MASTER_DOSSIER.md` for the Barnabas-linked kit MK85913).
+Jim (Jimmy Dail) Partin, *Barnabas Partin: Ancestors and Descendants, From Virginia to Mississippi and Beyond* (see `00_PROJECT_CONTROL/RECOVERED_RESEARCH_INVENTORY.md` Category G); AI-assisted research recovered from the project's Google Drive, September 2026 (Categories A, D, F); FamilyTreeDNA Partin Surname Project public results (see `08_DNA/YDNA_MASTER_DOSSIER.md` for the Barnabas-linked kit MK85913).

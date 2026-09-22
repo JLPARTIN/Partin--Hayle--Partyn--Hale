@@ -149,7 +149,7 @@ Reported at three different confidence levels by three separate documents:
 - **Version A:** R-FTF47086 (cited for kit MK85913 in a Jamestowne Society application draft, claimed as matching other "Robert Partin b.1655" testers).
 - **Version B:** The project's own raw 19-row Y-DNA spreadsheet shows terminal SNPs R-M269, R-FTE30394, R-BY31280, R-FTB85652, R-F22409, and R-Y32699 — **R-FTF47086 does not appear among them.**
 
-**Status:** Unresolved — not a contradiction in the sense of two sources disagreeing about the same fact, but a **gap**: the project's two DNA data sources cannot currently be cross-referenced. See `09_DNA/YDNA_MASTER_DOSSIER.md`.
+**Status:** Unresolved — not a contradiction in the sense of two sources disagreeing about the same fact, but a **gap**: the project's two DNA data sources cannot currently be cross-referenced. See `08_DNA/YDNA_MASTER_DOSSIER.md`.
 
 ## 21. Robert Partin Sr.'s birth year
 

@@ -38,7 +38,7 @@ This register catalogs the project's highest-value sources by type, per the sour
 
 ## DNA data sources
 
-See `09_DNA/YDNA_MASTER_DOSSIER.md` for the project's two recovered Y-DNA data sources (a 19-row raw STR/haplogroup spreadsheet, and a narrative kit-match claim for kit MK85913/SNP R-FTF47086) and the gap between them.
+See `08_DNA/YDNA_MASTER_DOSSIER.md` for the project's two recovered Y-DNA data sources (a 19-row raw STR/haplogroup spreadsheet, and a narrative kit-match claim for kit MK85913/SNP R-FTF47086) and the gap between them.
 
 ## Sourcing rule for this register
 

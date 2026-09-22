@@ -61,7 +61,7 @@ Two proceedings, evidently connected, were recovered:
 
 ## FAN Network
 
-Widow Thompson, Robert Brasheare/Brasseur (1637 lease neighbors — the Brasseur family later appears farther south in the Nansemond corridor, worth following); Gresham Covell (co-tenant, 1657); Daniel Lluellin/Llewellyn (1642, 1655 patentee); John Meares, Walter Aston, Edward Gardner, Edward Madison, Sergeant John Harris, Michael Turpin, Joseph Royall, Dorothy Baker (1655 patent neighborhood, reconstructable via Llewellyn's larger patent); John Seward (1648 headright patentee); Charles Maxey (co-defendant, 1627). See `10_FAN_NETWORKS/FAN_NETWORKS_DOSSIER.md`.
+Widow Thompson, Robert Brasheare/Brasseur (1637 lease neighbors — the Brasseur family later appears farther south in the Nansemond corridor, worth following); Gresham Covell (co-tenant, 1657); Daniel Lluellin/Llewellyn (1642, 1655 patentee); John Meares, Walter Aston, Edward Gardner, Edward Madison, Sergeant John Harris, Michael Turpin, Joseph Royall, Dorothy Baker (1655 patent neighborhood, reconstructable via Llewellyn's larger patent); John Seward (1648 headright patentee); Charles Maxey (co-defendant, 1627). See `09_FAN_NETWORKS/FAN_NETWORKS_DOSSIER.md`.
 
 ## Migration and Land Corridor
 
@@ -80,7 +80,7 @@ The evidence supports shifting the project's central "lost generation" problem f
 ## Contradictions
 
 - This dossier's own body text (24 Nov 1637 lease chronology) is internally consistent, but a separately recovered document's summary table gives Robert Jr.'s death as "d. before 1677" in one place and "ca. 1623–1687" in its own final summary elsewhere — an internal inconsistency in that source, not a resolved fact, preserved here as a caution against citing either date without checking.
-- See `11_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` #21–22 for the Robert Partin Sr. birth-year and origin-place conflicts, which bear on identifying which English candidate (if any) this Virginia Robert actually was.
+- See `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` #21–22 for the Robert Partin Sr. birth-year and origin-place conflicts, which bear on identifying which English candidate (if any) this Virginia Robert actually was.
 
 ## Rejected Claims
 

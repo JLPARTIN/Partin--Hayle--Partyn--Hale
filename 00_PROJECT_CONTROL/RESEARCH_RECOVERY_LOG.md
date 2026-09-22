@@ -38,4 +38,4 @@ Approximately 110 distinct Drive items matched, resolving to roughly 62 unique r
 
 ## Areas flagged for follow-up research (not resolved by this recovery pass)
 
-See `12_OPEN_QUESTIONS/RESEARCH_QUEUE.md` for the consolidated list, and the "Open Questions" section of each expanded dossier.
+See `11_OPEN_QUESTIONS/RESEARCH_QUEUE.md` for the consolidated list, and the "Open Questions" section of each expanded dossier.

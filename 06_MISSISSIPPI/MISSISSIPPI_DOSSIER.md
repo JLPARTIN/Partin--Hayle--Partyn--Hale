@@ -61,7 +61,7 @@ Barnabas's will (Wilkinson Co. MS Probate Wills Book 2, p.100; Probate Minutes V
 
 ## DNA Evidence
 
-A Y-DNA kit (MK85913), administered by the project owner and claimed as a direct paternal-line descendant through Barnabas Partin, is reported as an exact match (0 genetic distance, 700 markers, terminal SNP R-FTF47086) to other FamilyTreeDNA Partin Surname Project testers who have entered "Robert Partin b. 1655 England" as their own earliest known paternal ancestor. This corroborates a recent shared common paternal ancestor among matching testers; it does not independently prove descent from any specific named historical individual. See `09_DNA/YDNA_MASTER_DOSSIER.md`.
+A Y-DNA kit (MK85913), administered by the project owner and claimed as a direct paternal-line descendant through Barnabas Partin, is reported as an exact match (0 genetic distance, 700 markers, terminal SNP R-FTF47086) to other FamilyTreeDNA Partin Surname Project testers who have entered "Robert Partin b. 1655 England" as their own earliest known paternal ancestor. This corroborates a recent shared common paternal ancestor among matching testers; it does not independently prove descent from any specific named historical individual. See `08_DNA/YDNA_MASTER_DOSSIER.md`.
 
 ## Contradictions
 

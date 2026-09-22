@@ -34,7 +34,7 @@ Recovered as two byte-identical Google Sheets — one owned by the project owner
 | 18 | R-Y32699 | Anderson Co., SC |
 | 19 | R-Y32699 | Anderson Co., SC (2nd kit) |
 
-All observed terminal SNPs are downstream subclades of **R-M269**, the common West European R1b founder SNP. **R-FTE30394** is the dominant branch (8 of 19 rows) and is discussed at length, along with the other Tennessee/upland-South clusters, in `08_APPALACHIAN_LINES/APPALACHIAN_LINES_DOSSIER.md` — none of these rows is currently linked to the project's own documentary Halifax line. No participant-entered "earliest known ancestor" is recorded anywhere in this sheet; the county-of-origin column records where a living participant's family is *from*, not where any specific historical ancestor lived at a specific date.
+All observed terminal SNPs are downstream subclades of **R-M269**, the common West European R1b founder SNP. **R-FTE30394** is the dominant branch (8 of 19 rows), clustered around Sevier, Cocke, and Franklin Counties, Tennessee, and Haywood County, North Carolina — upland/Appalachian counties with no established documentary connection to this project's own Halifax line. None of these 19 rows is currently linked to the project's own documented kit (see below). This project has not researched the specific families behind these Appalachian clusters, since none is currently known to be a direct-line ancestor; this dossier records the raw genetic pattern only. No participant-entered "earliest known ancestor" is recorded anywhere in this sheet; the county-of-origin column records where a living participant's family is *from*, not where any specific historical ancestor lived at a specific date.
 
 ## The MK85913 / R-FTF47086 Claim
 
@@ -86,7 +86,7 @@ Prior project research reports observing a restructuring of the broader Parton/P
 4. Re-verify the FTT183/FTT184/FTT185 Halifax/Sussex branch-separation claim against the live FTDNA public tree, with a fresh retrieval date.
 5. For every tester whose "earliest known ancestor" is cited anywhere in this project's DNA discussion, independently review that tester's own documentary basis before treating the identification as corroborating evidence.
 6. Compare kit 177408's 37-marker STR values against MK85913 and other Big Y Partin kits.
-7. A DNA-related video file ("DNA~PARTIN~SNP," ~64 MB) was located in the recovered Drive corpus but not transcribed — flagged in `12_OPEN_QUESTIONS/RESEARCH_QUEUE.md` for a future review.
+7. A DNA-related video file ("DNA~PARTIN~SNP," ~64 MB) was located in the recovered Drive corpus but not transcribed — flagged in `11_OPEN_QUESTIONS/RESEARCH_QUEUE.md` for a future review.
 
 ## Sources
 

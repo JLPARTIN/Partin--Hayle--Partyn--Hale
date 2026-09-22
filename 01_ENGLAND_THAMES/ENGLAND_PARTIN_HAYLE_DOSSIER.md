@@ -75,7 +75,7 @@ None beyond the general uncertainty above — no competing named-identity theory
 
 ## Contradictions
 
-See `11_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` entries #3, #5, #21, #22, and #23 for the Margaret-Hayle maiden name reversal, the Thomas-Hayle-as-nephew hypothesis's current evidentiary gap, and the Robert Partin Sr. birth-year and origin-place discrepancies.
+See `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` entries #3, #5, #21, #22, and #23 for the Margaret-Hayle maiden name reversal, the Thomas-Hayle-as-nephew hypothesis's current evidentiary gap, and the Robert Partin Sr. birth-year and origin-place discrepancies.
 
 ## Rejected Claims
 

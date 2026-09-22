@@ -36,7 +36,7 @@ Claims that have been tested against the recovered research corpus and found uns
 
 **Origin of claim:** The project owner's own Jamestowne Society application-support draft ("PARTIN DIRECT LINE"), styled as advocacy for a lineage submission rather than a neutral audit.
 
-**Evidence for:** The payment entry itself is real (though its exact amount is separately disputed — see Contradiction 5 in `11_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md`) and does place a "John Partin" as a recipient from a Robert Partin estate.
+**Evidence for:** The payment entry itself is real (though its exact amount is separately disputed — see Contradiction 5 in `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md`) and does place a "John Partin" as a recipient from a Robert Partin estate.
 
 **Evidence against:** At least four independently recovered documents — including both a Gemini and a ChatGPT run of a dedicated parentage investigation, and a long-form self-auditing transcript — state plainly that the payment record **does not use the word "son"** and is inferential only. The self-auditing transcript separately calls this exact bridge "the biggest problem" in the entire research program and states there is "no primary state-line bridge record."
 

@@ -23,7 +23,7 @@ The project is intentionally **evidence-first**. It preserves proven facts, cand
 
 ## Repository map
 
-Each numbered directory below holds **one consolidated era/lineage dossier** — the project's focal line runs England → Jamestown → Surry/Sussex → **Halifax, North Carolina (the focal point)** → South Carolina → Mississippi, with Alabama and the Appalachian Tennessee/Georgia/Kentucky material as explicitly labeled collateral branches, not equal-weight chapters. This structure replaced an earlier one-file-per-person layout in October 2026; see `00_PROJECT_CONTROL/RESEARCH_RECOVERY_LOG.md` for the reorganization record.
+Each numbered directory below holds **one consolidated era/lineage dossier** — the project's focal line runs England → Jamestown → Surry/Sussex → **Halifax, North Carolina (the focal point)** → South Carolina → Mississippi, with Alabama as an explicitly labeled collateral branch, not an equal-weight chapter. This structure replaced an earlier one-file-per-person layout in October 2026; see `00_PROJECT_CONTROL/RESEARCH_RECOVERY_LOG.md` for the reorganization record. A dossier is included here only for a line with a documented direct-line ancestor and actual research behind it — a broader Tennessee/Georgia/Kentucky/upland-SC Y-DNA-cluster dossier was considered and dropped, since none of those clusters includes a documented direct-line ancestor or dedicated research; the raw genetic pattern is noted in the DNA dossier instead.
 
 - `00_PROJECT_CONTROL/` — methodology, master chronology, research questions, evidence grading, claim index, contradiction/rejection registers.
 - `01_ENGLAND_THAMES/` — `ENGLAND_PARTIN_HAYLE_DOSSIER.md`: London/Thames Partyn–Partin and Hayle–Hale research.
@@ -32,12 +32,11 @@ Each numbered directory below holds **one consolidated era/lineage dossier** —
 - `04_HALIFAX_NORTH_CAROLINA/` — `NORTH_CAROLINA_DOSSIER.md`: **the focal dossier of the project** — John Partin (d.1795) and David Partin Sr.
 - `05_SOUTH_CAROLINA/` — `SOUTH_CAROLINA_DOSSIER.md`: Barnabas and Brasel Partin in the Kershaw/Camden District.
 - `06_MISSISSIPPI/` — `MISSISSIPPI_DOSSIER.md`: Barnabas Partin's Wilkinson County generation and his son William.
-- `07_ALABAMA/` — `ALABAMA_DOSSIER.md`: Asa B. Partin, a collateral branch (probable, unproven, nephew of Barnabas).
-- `08_APPALACHIAN_LINES/` — `APPALACHIAN_LINES_DOSSIER.md`: collateral Tennessee/Georgia/Kentucky/upland-SC Partin/Parton/Partain families, linked at the Y-DNA level but not documentarily connected to the focal line.
-- `09_DNA/` — `YDNA_MASTER_DOSSIER.md`: Y-DNA/FTDNA evidence and branch hypotheses.
-- `10_FAN_NETWORKS/` — `FAN_NETWORKS_DOSSIER.md`: friends, associates, neighbors, witnesses, administrators, land adjacency, across every era.
-- `11_SOURCES/` — source register, primary-record notes, contradiction register, and archival targets.
-- `12_OPEN_QUESTIONS/` — unresolved links and targeted search plans.
+- `07_ALABAMA/` — `ALABAMA_DOSSIER.md`: Asa B. Partin, a collateral branch (probable, unproven, proposed son of Brasel Partin — Barnabas's brother — which would make Asa Barnabas's nephew).
+- `08_DNA/` — `YDNA_MASTER_DOSSIER.md`: Y-DNA/FTDNA evidence and branch hypotheses.
+- `09_FAN_NETWORKS/` — `FAN_NETWORKS_DOSSIER.md`: friends, associates, neighbors, witnesses, administrators, land adjacency, across every era.
+- `10_SOURCES/` — source register, primary-record notes, contradiction register, and archival targets.
+- `11_OPEN_QUESTIONS/` — unresolved links and targeted search plans.
 
 ## Current high-value questions
 
@@ -52,9 +51,9 @@ A systematic recovery of the project owner's scattered AI-assisted research — 
 - `00_PROJECT_CONTROL/RECOVERED_RESEARCH_INVENTORY.md` — full catalog of every source recovered, deduplicated, with reliability notes.
 - `00_PROJECT_CONTROL/MASTER_CLAIM_EVIDENCE_INDEX.md` — the sixteen central propositions of the project, each graded against the recovered evidence.
 - `00_PROJECT_CONTROL/REJECTED_AND_QUARANTINED_CLAIMS.md` — claims tested and found unsupported (a Hayle maiden name for Margaret Partin; a Hewitt maiden name for John Partin's wife; the 1746 Surry payment as a "smoking gun"; and others).
-- `11_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` — 23 specific, unresolved factual contradictions preserved rather than silently harmonized.
+- `10_SOURCES/SOURCE_CONTRADICTIONS/MASTER_CONTRADICTION_REGISTER.md` — 23 specific, unresolved factual contradictions preserved rather than silently harmonized.
 - `00_PROJECT_CONTROL/RESEARCH_RECOVERY_LOG.md` — what was and was not covered by this recovery pass.
 
 **The single highest-value discovery of this recovery pass** is a verbatim 1627 Virginia General Court record naming Thomas Hayle's victim as Avis Partin, "the daughter of Robert Partin and Margarett his wife" (`02_JAMESTOWN_VIRGINIA/JAMESTOWN_VIRGINIA_DOSSIER.md`), alongside a recovered 1625/26 London will for Symon Hayle that — read together with the court record — actively rejects, rather than confirms, this project's long-standing working hypothesis that Margaret Partin was born a Hayle (`01_ENGLAND_THAMES/ENGLAND_PARTIN_HAYLE_DOSSIER.md`).
 
-**The second-highest-value discovery** is the identification of *Barnabas Partin: Ancestors and Descendants, From Virginia to Mississippi and Beyond*, a book-length compiled genealogy by the project owner's cousin Jim (Jimmy Dail) Partin, previously scattered across ~30 duplicate scans and OCR passes in the project's Drive under two different naming schemes. It is now catalogued as a single canonical source (`11_SOURCES/MASTER_SOURCE_REGISTER.md`) and integrated into `04_HALIFAX_NORTH_CAROLINA/`, `05_SOUTH_CAROLINA/`, and `06_MISSISSIPPI/`.
+**The second-highest-value discovery** is the identification of *Barnabas Partin: Ancestors and Descendants, From Virginia to Mississippi and Beyond*, a book-length compiled genealogy by the project owner's cousin Jim (Jimmy Dail) Partin, previously scattered across ~30 duplicate scans and OCR passes in the project's Drive under two different naming schemes. It is now catalogued as a single canonical source (`10_SOURCES/MASTER_SOURCE_REGISTER.md`) and integrated into `04_HALIFAX_NORTH_CAROLINA/`, `05_SOUTH_CAROLINA/`, and `06_MISSISSIPPI/`.
