@@ -32,10 +32,10 @@ Approximately 110 distinct Drive items matched, resolving to roughly 62 unique r
 ## Duplicate clusters identified and how they were handled
 
 - The Jim Partin book: recovered under two different OCR/upload naming schemes ("[1-100][PARTIN][DOCX]"..."[501-588][PARTIN][DOCX]" and "[1]BARNABAS_PARTIN[1]"..."[6]BARNABAS_PARTIN_501-588-1"), each re-OCR'd three to five times, plus PDF re-compressions, RTF exports, a zip file, and duplicate folder copies — approximately 30 file-level duplicates collapsed to one canonical 7-file original PDF set. See `RECOVERED_RESEARCH_INVENTORY.md` Category G.
-- The "David Partin Sr. wife" investigation: five sequential AI-drafted documents, each superficially a "new" document but actually successive revisions of the same question — treated as one evolving investigation, not five separate findings. See `04_HALIFAX_NORTH_CAROLINA/DAVID_PARTIN_SR_DOSSIER.md`.
+- The "David Partin Sr. wife" investigation: five sequential AI-drafted documents, each superficially a "new" document but actually successive revisions of the same question — treated as one evolving investigation, not five separate findings. See `04_HALIFAX_NORTH_CAROLINA/NORTH_CAROLINA_DOSSIER.md`.
 - "John Partin parentage/children" research: run in parallel through two different AI tools (Gemini-style and ChatGPT-style) on the same underlying evidence — treated as a calibration check on each other, not as independent corroboration.
 - "Forensic Genealogical Audit: The Partin Lineage of...," "Colonial Genealogy: Spear-Partin Nexus Uncovered," "Ultimate_Genealogy_Prompt," and several other titles existed as 3–5 near-identical repeat saves each (same content, different Drive file IDs, from repeated chat-export actions) — each collapsed to a single inventory entry.
 
 ## Areas flagged for follow-up research (not resolved by this recovery pass)
 
-See `10_OPEN_QUESTIONS/RESEARCH_QUEUE.md` for the consolidated list, and the "Open Questions" section of each expanded dossier.
+See `12_OPEN_QUESTIONS/RESEARCH_QUEUE.md` for the consolidated list, and the "Open Questions" section of each expanded dossier.

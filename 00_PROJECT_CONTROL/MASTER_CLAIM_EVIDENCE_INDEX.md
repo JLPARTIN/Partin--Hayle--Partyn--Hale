@@ -34,13 +34,13 @@ A claim is never silently upgraded here. Where the recovered corpus itself disag
 
 **STATUS: REJECTED**
 
-**Evidence for:** None found in the recovered corpus that rests on a primary record. The "Hayle network" working hypothesis (long-standing in this project's prior sessions, see `01_ENGLAND_THAMES/LONDON_NETWORK.md`) proposed this connection as a way to explain Thomas Hayle's presence in Robert Partin's household.
+**Evidence for:** None found in the recovered corpus that rests on a primary record. The "Hayle network" working hypothesis (long-standing in this project's prior sessions, see `01_ENGLAND_THAMES/ENGLAND_PARTIN_HAYLE_DOSSIER.md`) proposed this connection as a way to explain Thomas Hayle's presence in Robert Partin's household.
 
 **Evidence against:** The single strongest primary-source find in the entire recovered corpus is a transcription of the 1625/26 London will of **Symon Hayle**, tailor, of the parish of St. Mary Somerset — the man proposed elsewhere in the project as Thomas Hayle's father. The will names Symon's children explicitly (son Thomas, contingent heirs son Robert Hayle and daughter Anne Hayle) and his wife/executrix Elizabeth Hayle. **It does not name a daughter Margaret.** The recovered document analyzing this will states this directly: "Symon Hayle's will does not list a daughter named Margaret. This confirms that Margaret Partin's maiden name is likely not Hayle, necessitating a search for alternative origins for the Partin matriarch."
 
 **Reasoning:** A will that names surviving/contingent children and does not include a Margaret is meaningful negative evidence against Margaret Partin having been Symon Hayle's daughter — though it does not rule out Margaret having belonged to a different branch of the Hayle family, or having died/married out before the will was written.
 
-**Verdict:** The Hayle-maiden-name hypothesis for Margaret Partin should be treated as **REJECTED pending new evidence**, not merely unproven. This directly downgrades the project's prior "Working Hypothesis — Hayle Connection" framing in `LONDON_NETWORK.md`, which should now be revised to state the aunt/nephew (not sibling, not mother/son) hypothesis discussed under Claim 5 below as the strongest surviving form of a Hayle-Partin kinship theory — and that even *that* hypothesis explains Thomas Hayle's presence via some other, unidentified relationship to Margaret, not via Margaret being Symon's daughter.
+**Verdict:** The Hayle-maiden-name hypothesis for Margaret Partin should be treated as **REJECTED pending new evidence**, not merely unproven. This directly downgrades the project's prior "Working Hypothesis — Hayle Connection" framing in `01_ENGLAND_THAMES/ENGLAND_PARTIN_HAYLE_DOSSIER.md`, which should now be revised to state the aunt/nephew (not sibling, not mother/son) hypothesis discussed under Claim 5 below as the strongest surviving form of a Hayle-Partin kinship theory — and that even *that* hypothesis explains Thomas Hayle's presence via some other, unidentified relationship to Margaret, not via Margaret being Symon's daughter.
 
 **Research needed:** Full reconstruction of the Hayle family beyond Symon's immediate household; search for a marriage record of a Margaret Hayle from a different branch; search for a completely non-Hayle origin for Margaret.
 
@@ -52,7 +52,7 @@ A claim is never silently upgraded here. Where the recovered corpus itself disag
 
 **Evidence:** A verbatim transcription of a June 1627 Virginia General Court record was recovered, reading in relevant part: *"This Court take into consideracon the full and p[er]ticular informacon of God given unto it p[er]ticularly of the offense and abominable and damnable fact of Thomas Hayle committed upon Avis Partin the daughter of Robert Partin and Margarett his wife, and upon three other maiden children, and finding him guilty of the rape & Ravishment of the said foure maiden children, doe therefore order & adiudge that the said Thomas Hayle be hanged by the neck untill he be dead..."* The record further orders co-defendant Charles Maxey (separately convicted of a similar offense) to serve as Hayle's executioner and then be whipped at James City and Shirley Hundred, and directs one-third of Hayle's forfeited estate to Avis Partin.
 
-This independently corroborates — and gives the specific victim's name and offense for — the previously known court record (already in `02_JAMESTOWN_VIRGINIA/GENERAL_COURT_1627.md`) describing Margaret Partin's separate prosecution for concealing Thomas Hayle's offense.
+This independently corroborates — and gives the specific victim's name and offense for — the previously known court record (already in `02_JAMESTOWN_VIRGINIA/JAMESTOWN_VIRGINIA_DOSSIER.md`) describing Margaret Partin's separate prosecution for concealing Thomas Hayle's offense.
 
 **Source quality:** This reads as a genuine primary-source transcription (period spelling, abbreviation marks, and bracketed uncertain readings are preserved in the recovered document) rather than a modern paraphrase. It has not been independently checked by this project against the actual Virginia General Court manuscript or a scholarly printed edition (e.g., *Virginia Magazine of History and Biography*).
 
@@ -212,7 +212,7 @@ One document additionally proposes that the 1795 will's reported duplicate "son 
 
 ## CLAIM 15 — David Partin Sr. of Halifax Co., NC (fl. c.1795–1835) was a son of John Partin (d. 1795) and his wife's identity was Keziah, of the Revelle or Hawkins family
 
-**STATUS: UNRESOLVED — see `04_HALIFAX_NORTH_CAROLINA/DAVID_PARTIN_SR_DOSSIER.md` for full evolution-of-investigation detail**
+**STATUS: UNRESOLVED — see `04_HALIFAX_NORTH_CAROLINA/NORTH_CAROLINA_DOSSIER.md` for full evolution-of-investigation detail**
 
 **Evidence for parentage:** Sourced in every drafted document exclusively to a single WikiTree page (Partin-664); no primary Halifax record in the recovered corpus directly names David's parents.
 
