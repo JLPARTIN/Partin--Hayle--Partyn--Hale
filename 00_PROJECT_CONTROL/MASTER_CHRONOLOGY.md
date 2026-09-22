@@ -34,6 +34,20 @@
 | 1773 | North Carolina | Barnabas Partin birth year in downstream reconstruction | Source-specific proof needed |
 | 1782 | Halifax County, NC | John Partin tax evidence in compiled research | Verify/cite original |
 | 1795 | Halifax County, NC | John Partin will names Mary, Robert, Charles, Barnabas, David in compiled research | High-priority original |
+| Jun 1627 | Virginia General Court | Thomas Hayle convicted of offense against Avis Partin, "the daughter of Robert Partin and Margarett his wife," and three other children; hanged; co-defendant Charles Maxey ordered as executioner then whipped | Strong (recovered transcription, not yet independently image-verified) |
+| 10 Feb 1625/26 | London (St. Mary Somerset) | Will of Symon Hayle, tailor, names son Thomas, wife/executrix Elizabeth, other children; does not name a daughter Margaret | Strong (recovered transcription); negative evidence against a Hayle maiden name for Margaret Partin |
+| 1793, 15 Mar (reported) | Halifax County, NC | Barnabas Partin marries Margaret "Peggy" Hux | Documentary anchor (compiled research) |
+| 1797 | Halifax County, NC | David Partin, insolvent tax list, District 2, 1 free poll | Documentary anchor |
+| 1800 | Claremont Co. (Kershaw), Sumter District, SC | Barnabas Partin head of household, census #597 | Documentary anchor |
+| 20 Jan 1801 | Kershaw Co., SC | Barnabas Partin witnesses Samuel Payne → Robert White deed, 100 acres, part of 1786 William Hux grant | Documentary anchor |
+| 9 Oct 1807 | Kershaw Co., SC | William Hux → Thomas English deed references "Barney Partin's land" as boundary | Documentary anchor |
+| 4 Dec 1823 | Halifax County, NC | David Partin/Parton to Thomas Revelle/Neville deed: inheritance through father and "from the death of my mother," land called "Robert Partin's tract" | Strong (image-level citation: DGS 007547227, image 629/774) |
+| 6 Mar 1811 (reported, uncited) | Kershaw District, SC | Barnabas and wife "Peggy" sell 353 acres to Thomas English; Peggy relinquishes dower | Working hypothesis — no deed book/page recovered |
+| 1813 | Wilkinson County, MS | Barnabas Partin, tax rolls, 1 poll, 2 slaves | Documentary anchor |
+| 16 Aug 1819 | Wilkinson County, MS | Federal land patent to Barnabas Partin, ~162 acres, Cert. #739964 | Proven (federal record) |
+| 1 Aug 1833 | Wilkinson County, MS | Second federal land patent to Barnabas Partin, 40.76 acres, Cert. #1296 | Proven (federal record) |
+| 24 Mar 1855 (also reported 25 Mar) | Wilkinson County, MS | Death of Barnabas Partin; buried Newman Family Cemetery | Working hypothesis — obituary date conflict unresolved |
+| Dec 1997 | Halifax, NC research tradition | Jim Partin's NCGenWeb query seeking John Partin's parents and Mary's maiden name — demonstrates these were unresolved in this research tradition as of that date | Documentary anchor for research provenance |
 | later | Carolinas → Mississippi | Barnabas-descended migration corridor | Generation dossiers pending |
 
 ## Critical bridge warnings
